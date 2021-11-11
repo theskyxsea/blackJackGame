@@ -9,12 +9,13 @@ h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin-top: 7%;
   font-size: 50px;
-  color: goldenstick;
+  color: #f9d77e;
 }
 #message-el {
   font-style: italic;
 }
 button {
+  color: #f9d77e;
   margin: 4px 4px;
   font-size: 22px;
   border: none;
@@ -24,5 +25,5 @@ button {
 }
 #win-el {
   font-size: 100px;
-  color: goldenstick;
+  color: #f9d77e;
 }
