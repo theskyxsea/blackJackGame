@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(11, 87, 33);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 7%;
+  font-size: 50px;
+}
+#message-el {
+  font-style: italic;
+}
+button {
+  margin: 4px 4px;
+  font-size: 22px;
+  border: none;
+  border-radius: 2px;
+  font-weight: bold;
+  color: rgb(11, 87, 33);
+}
+#win-el {
+  font-size: 100px;
+}
